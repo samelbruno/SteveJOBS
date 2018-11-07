@@ -1,0 +1,17 @@
+ul {
+  background-color: yellow;
+}
+
+li {
+  font-size: 40px;
+  display: inline;
+  margin: 20px;
+}
+body {
+  background-image: url("https://i.ytimg.com/vi/qfS84lQbkw8/maxresdefault.jpg");
+  color: lightblue;
+}
+p {
+  background-color: red;
+  color: green;
+}
